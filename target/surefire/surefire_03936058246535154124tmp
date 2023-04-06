@@ -1,0 +1,12 @@
+#surefire_0
+#Thu Apr 06 20:33:59 IST 2023
+basedir=C\:\\Users\\Futuremind\\Documents\\NetBeansProjects\\mywebapp
+jpda.address=52472
+test=lk.icbt.java.auth.login.controller.Admin_login_ServletTest\#testDoPost
+file.encoding=UTF-8
+user.dir=C\:\\Users\\Futuremind\\Documents\\NetBeansProjects\\mywebapp
+forkMode=once
+jpda.listen=true
+maven.surefire.debug=-agentlib\:jdwp\=transport\=dt_socket,server\=n,address\=52472
+maven.ext.class.path=C\:\\Program Files\\NetBeans-14\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+localRepository=C\:\\Users\\Futuremind\\.m2\\repository
